@@ -96,13 +96,13 @@ that part is up to whoever is using it in a **lab or demo**
 ## 🚀 run
 
 ```bash
-python muffin_demo.py
+python MUFFINCARTEL.py
 ```
 
 or
 
 ```bash
-python training_window.py
+python MUFFINWARE.py
 ```
 
 press `ESC` to exit
